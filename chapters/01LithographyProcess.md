@@ -1,8 +1,8 @@
 #半导体光刻
 ---
 <span style="color:red;">这是比font标签更好的方式。可以试试。</span>
-```diff
-+ this will be highlighted in green
+```diff + this will be highlighted in green
+也许
 - this will be highlighted in red
 <font face="黑体">黑体</font>
 集成电路（Integrated Circuit, IC）</span>
